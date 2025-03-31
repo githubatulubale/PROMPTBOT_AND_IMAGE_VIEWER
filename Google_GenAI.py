@@ -4,7 +4,7 @@ import os
 import PIL.Image
 
 # Configure API Key
-os.environ['GEMINI_API_KEY'] = "AIzaSyAX3Kj9hUsNz3gxbwvzSgp-1MfY6dNHq-Y"
+os.environ['GEMINI_API_KEY'] = "AIzaSyAX3Kj9hSgp-1MfY6dNHq-Y"
 genai.configure(api_key=os.environ['GEMINI_API_KEY'])
 
 # Initialize model
